@@ -1,0 +1,17 @@
+.App {
+  text-align: center;
+  /*background-color: red;*/
+}
+
+.home{
+  width: 8em;
+  height: 6em;
+}
+.img-page{
+  width: 25em;
+  height: 16em;
+}
+ul {
+  list-style: none;
+  display: flex;
+}
